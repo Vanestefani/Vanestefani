@@ -7,25 +7,24 @@ I am a professional in Systems Engineering with experience in the Support area (
 
 I have knowledge in web application development, desktop with Java, C ++, PHP and Python programming languages, focused on React.JS and .NET frameworks, I have knowledge in video game development in Unity and Unreal engine 4 , in design tools like Illustrator, Photoshop, Blender and Figma.
 
-
-🔭 I’m currently working on unreal engine video game 🎮
-🌱 I’m currently learning Graphql and Next Js
-📚 I want to learn React Native and Flutter
+<ul>
+  <li>🔭 I’m currently working on unreal engine video game 🎮 </li>
+ <li>🌱 I’m currently learning Graphql and Next Js </li>
+ <li>📚 I want to learn React Native and Flutter </li>
  
+</ul>
+  
+## Tech 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanestefani&layout=compact)](https://github.com/vanestefani/github-readme-stats)
 
-<!--
-**Vanestefani/Vanestefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanestefani&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
+midnight-purple
