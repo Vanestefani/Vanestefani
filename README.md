@@ -17,7 +17,7 @@ I have knowledge in web application development, desktop with Java, C ++, PHP an
  
 </ul>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vanestefani)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ##  🚀  Tech 
   
