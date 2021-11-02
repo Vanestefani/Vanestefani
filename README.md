@@ -31,11 +31,10 @@ I have knowledge in web application development, desktop with Java, C ++, PHP an
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-  
-  
-  
-  
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/nolan/64/unreal-engine.png" width="48" height="48"/>  
+   <img src="https://img.icons8.com/nolan/64/unity.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/nolan/64/sql.png" width="48" height="48"/>
 
 </p>
 
@@ -51,7 +50,8 @@ I have knowledge in web application development, desktop with Java, C ++, PHP an
  ## Connect with me:
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vanestefani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vanessa_corredor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vanessa-corredor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devanestefani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DEVANESTEFANI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Vanestefani)  
+[<img src='https://img.icons8.com/nolan/48/github.png' alt='github' >](https://github.com/Vanestefani)[<img src='https://img.icons8.com/windows/32/000000/dev.png' alt='dev' height='40'>](https://dev.to/vanessa_corredor)[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vanessa-corredor) [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/devanestefani)[<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/DEVANESTEFANI) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Vanestefani)  
 
 
 
